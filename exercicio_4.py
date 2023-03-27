@@ -1,0 +1,7 @@
+nome = input("Digite o nome aqui:")
+print("Convite para nosso Noivado")
+print(f"Querido {nome.upper()}!")
+print("É com imensa alegria que contamos com a sua presença em nossa festa de noivado! Saiba que você é importante em nossa história!")
+print("Nos reuniremos no dia 20 de Abril de 2023, ás 18:30h")
+print("Local: Casa de Recepções Duque de Sales")
+print("Contamos com sua presença!")
